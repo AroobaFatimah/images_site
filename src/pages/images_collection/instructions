@@ -1,0 +1,4 @@
+i want that each user has its own collection page
+i want that when a user is logged in, and clicks to add image to collection for 1st time then image should be added to the collection page of that person
+That persons email and his added images should be added to the collections as an object
+If the person is already in collections and add a new image to his collection then only update his collection images in the collections array.

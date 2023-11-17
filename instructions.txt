@@ -1,0 +1,32 @@
+
+
+Problems in search functionality:
+its not searching properly, when the tag is searched it works when the tag is changed
+it dont allow to erase the whole search keyword --- done
+Need to assign proper tags for each image
+
+Problems in home pages images grid:
+As i implemented the open modal functionality on clicking an image, the buttons on the images got disturbed --- resolved
+I want that when the buttons on the images are clicked, only that button functionality should be executed. It should not open modal. --- done
+But when it is clicked anywhere on the card except the buttons, the modal should open --- done
+
+Problems in downloading image at different sizes:
+The image is downloading only in one size
+I want to download image in different sizes
+
+Problems in collection page:
+The should be a banner in the collection page
+The images card on the collection page also contains buttons. It should only contain delete or download buttons
+And on clicking the image, there should be same process as for home page (open Modal)
+
+In header:
+There should be home button to navigate back to home page from the collection page
+
+Need to refactor code:
+The code is very messy
+Need to create proper components like button, input field, li extra
+
+Something good:
+I want to add login/signup functionality
+And according to login credentials, each user should access their own collection page
+
